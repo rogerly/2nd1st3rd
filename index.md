@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 2nd, 1st then 3rd
 
-You can use the [editor on GitHub](https://github.com/rogerly/2nd1st3rd/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In sports, a type of podium can be used to honor the top three competitors in events. In the modern Olympics a tri-level podium is used. Traditionally, the highest platform is in the center for the gold medalist. To their right is a lower platform for the silver medalist, and to the left of the gold medalist is a lower platform for the bronze medalist.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What does this mean?
 
-### Markdown
+It means if you are using a podium to showcase winners in your event, you should PROPERLY ORDER your podium so the second place finisher(s) are on the left, first place finisher(s) are in the middle and third place finisher(s) are on on the right. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rogerly/2nd1st3rd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Second. First. Third.
